@@ -19,10 +19,10 @@ function App() {
       <Navbar />
       <Header />
       <Switch>
-        <Route exact path="/" component={Home} />
-        <Route exact path="/home" component={Home} />
-        <Route exact path="/webdevelopment" component={Webdevelopment} />
-        <Route exact path="/contact" component={Contact} />
+        <Route exact path="/" component= {Home} />
+        <Route exact path="./pages/home" component={Home} />
+        <Route exact path="./pages//webdevelopment" component={Webdevelopment} />
+        <Route exact path="./pages/contact" component={Contact} />
       </Switch>
       <Footer />
     </HashRouter>
