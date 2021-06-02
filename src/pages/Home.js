@@ -1,7 +1,7 @@
 import React from "react";
 import BioPic from "../assets/bio-pic.jpg";
 
-export const Home = () => {
+export const home = () => {
     return (
         <div id="about" className="container py-5">
             <div className="row">
@@ -27,4 +27,4 @@ export const Home = () => {
     )
 }
 
-export default Home
+export default home

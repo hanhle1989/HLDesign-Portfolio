@@ -5,13 +5,13 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
 
-import Navbar from "./components/Navbar";
+import Navbar from "./components/navbar";
 import Footer from "./components/footer";
-import Header from "./components/Header"
+import Header from "./components/header"
 
-import Home from "./pages/Home";
-import WebDevelopment from "./pages/WebDevelopment";
-import Contact from './pages/Contact';
+import Home from "./pages/home";
+import Webdevelopment from "./pages/webdevelopment";
+import Contact from './pages/contact';
 
 function App() {
   return (
@@ -21,13 +21,13 @@ function App() {
           <Route exact path="/"> <Home />
           </Route>
 
-          <Route exact path="/Home"> <Home />
+          <Route exact path="/home"> <Home />
           </Route>
 
-          <Route exact path="/WebDevelopment"> <WebDevelopment />
+          <Route exact path="/webdevelopment"> <Webdevelopment />
           </Route>
 
-          <Route exact path="/Contact"> <Contact />
+          <Route exact path="/contact"> <Contact />
           </Route>
           
         <Footer />

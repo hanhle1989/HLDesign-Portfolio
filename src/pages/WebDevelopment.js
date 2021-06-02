@@ -1,8 +1,8 @@
 import React from "react";
-import Projects from "../components/Projects";
-import projects from "../projects"
+import Projects from "../components/projects";
+import projects from "../utils/projects"
 
-export const WebDevelopment = () => {
+export const webdevelopment = () => {
     return (
         <div>
             <Projects projects={projects}/>
@@ -10,4 +10,4 @@ export const WebDevelopment = () => {
     )
 }
 
-export default WebDevelopment
+export default webdevelopment

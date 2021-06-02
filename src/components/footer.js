@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
 import { faLinkedin } from "@fortawesome/free-brands-svg-icons";
 
-export const Footer = () => {
+export const footer = () => {
     return (
         <div className="container-fluid footer">
             <div className="box">
@@ -19,4 +19,4 @@ export const Footer = () => {
     )
 }
 
-export default Footer
+export default footer

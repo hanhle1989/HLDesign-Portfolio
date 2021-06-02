@@ -1,6 +1,6 @@
 import React from "react";
 
-function Projects(props) {
+function projects(props) {
     return (
         <div id="projects" className="portfolio-wrapper">
             <div className="container">
@@ -28,4 +28,4 @@ function Projects(props) {
     )
 }
 
-export default Projects
+export default projects

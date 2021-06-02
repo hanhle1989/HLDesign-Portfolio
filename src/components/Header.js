@@ -2,7 +2,7 @@ import React from "react"
 import Typed from "react-typed"
 
 
-export const Header = () => {
+export const header = () => {
     return (
         
                 <div className="header-wrapper">
@@ -15,11 +15,11 @@ export const Header = () => {
                             backSpeed={50}
                             loop
                         />
-                        <a href="WebDevelopment" className="btn-main-offer">View My Works</a>
+                        <a href="webdevelopment" className="btn-main-offer">View My Works</a>
                     </div>
                 </div>
             
     )
 }
 
-export default Header
+export default header

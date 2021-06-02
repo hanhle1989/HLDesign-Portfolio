@@ -3,7 +3,7 @@ import logo from "../assets/logo.png";
 
 import resume from "../assets/hanh-le-resume.pdf";
 
-export const Navbar = () => {
+export const navbar = () => {
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
             <div className="container">
@@ -30,4 +30,4 @@ export const Navbar = () => {
     )
 }
 
-export default Navbar
+export default navbar

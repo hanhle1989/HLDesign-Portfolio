@@ -1,7 +1,7 @@
 import React from 'react';
 import emailjs from 'emailjs-com';
 
-export const Contact = () => {
+export const contact = () => {
 
   function sendEmail(e) {
     e.preventDefault();
@@ -48,4 +48,4 @@ export const Contact = () => {
   );
 }
 
-export default Contact
+export default contact
