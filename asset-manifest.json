@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/HLDesign-Portfolio/static/css/main.316153c5.chunk.css",
-    "main.js": "/HLDesign-Portfolio/static/js/main.ff0ac0e8.chunk.js",
-    "main.js.map": "/HLDesign-Portfolio/static/js/main.ff0ac0e8.chunk.js.map",
+    "main.js": "/HLDesign-Portfolio/static/js/main.62c6da28.chunk.js",
+    "main.js.map": "/HLDesign-Portfolio/static/js/main.62c6da28.chunk.js.map",
     "runtime-main.js": "/HLDesign-Portfolio/static/js/runtime-main.073a2848.js",
     "runtime-main.js.map": "/HLDesign-Portfolio/static/js/runtime-main.073a2848.js.map",
     "static/css/2.61b4cb56.chunk.css": "/HLDesign-Portfolio/static/css/2.61b4cb56.chunk.css",
-    "static/js/2.12ab464f.chunk.js": "/HLDesign-Portfolio/static/js/2.12ab464f.chunk.js",
-    "static/js/2.12ab464f.chunk.js.map": "/HLDesign-Portfolio/static/js/2.12ab464f.chunk.js.map",
+    "static/js/2.53d561a0.chunk.js": "/HLDesign-Portfolio/static/js/2.53d561a0.chunk.js",
+    "static/js/2.53d561a0.chunk.js.map": "/HLDesign-Portfolio/static/js/2.53d561a0.chunk.js.map",
     "static/js/3.35cf9792.chunk.js": "/HLDesign-Portfolio/static/js/3.35cf9792.chunk.js",
     "static/js/3.35cf9792.chunk.js.map": "/HLDesign-Portfolio/static/js/3.35cf9792.chunk.js.map",
     "index.html": "/HLDesign-Portfolio/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/HLDesign-Portfolio/static/css/2.61b4cb56.chunk.css.map",
     "static/css/main.316153c5.chunk.css.map": "/HLDesign-Portfolio/static/css/main.316153c5.chunk.css.map",
-    "static/js/2.12ab464f.chunk.js.LICENSE.txt": "/HLDesign-Portfolio/static/js/2.12ab464f.chunk.js.LICENSE.txt",
+    "static/js/2.53d561a0.chunk.js.LICENSE.txt": "/HLDesign-Portfolio/static/js/2.53d561a0.chunk.js.LICENSE.txt",
     "static/media/App.css": "/HLDesign-Portfolio/static/media/footer.b19dbd11.jpeg",
     "static/media/bio-pic.be11d7d6.jpg": "/HLDesign-Portfolio/static/media/bio-pic.be11d7d6.jpg",
     "static/media/employee-directory.cd7b0c45.gif": "/HLDesign-Portfolio/static/media/employee-directory.cd7b0c45.gif",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.073a2848.js",
     "static/css/2.61b4cb56.chunk.css",
-    "static/js/2.12ab464f.chunk.js",
+    "static/js/2.53d561a0.chunk.js",
     "static/css/main.316153c5.chunk.css",
-    "static/js/main.ff0ac0e8.chunk.js"
+    "static/js/main.62c6da28.chunk.js"
   ]
 }
