@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/HLDesign-Portfolio/static/css/main.316153c5.chunk.css",
-    "main.js": "/HLDesign-Portfolio/static/js/main.af44b98d.chunk.js",
-    "main.js.map": "/HLDesign-Portfolio/static/js/main.af44b98d.chunk.js.map",
+    "main.js": "/HLDesign-Portfolio/static/js/main.ff0ac0e8.chunk.js",
+    "main.js.map": "/HLDesign-Portfolio/static/js/main.ff0ac0e8.chunk.js.map",
     "runtime-main.js": "/HLDesign-Portfolio/static/js/runtime-main.073a2848.js",
     "runtime-main.js.map": "/HLDesign-Portfolio/static/js/runtime-main.073a2848.js.map",
     "static/css/2.61b4cb56.chunk.css": "/HLDesign-Portfolio/static/css/2.61b4cb56.chunk.css",
@@ -30,6 +30,6 @@
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.12ab464f.chunk.js",
     "static/css/main.316153c5.chunk.css",
-    "static/js/main.af44b98d.chunk.js"
+    "static/js/main.ff0ac0e8.chunk.js"
   ]
 }
