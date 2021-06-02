@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/HLDesign-Portfolio/static/css/main.316153c5.chunk.css",
+    "main.js": "/HLDesign-Portfolio/static/js/main.af44b98d.chunk.js",
+    "main.js.map": "/HLDesign-Portfolio/static/js/main.af44b98d.chunk.js.map",
+    "runtime-main.js": "/HLDesign-Portfolio/static/js/runtime-main.073a2848.js",
+    "runtime-main.js.map": "/HLDesign-Portfolio/static/js/runtime-main.073a2848.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/HLDesign-Portfolio/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.12ab464f.chunk.js": "/HLDesign-Portfolio/static/js/2.12ab464f.chunk.js",
+    "static/js/2.12ab464f.chunk.js.map": "/HLDesign-Portfolio/static/js/2.12ab464f.chunk.js.map",
+    "static/js/3.35cf9792.chunk.js": "/HLDesign-Portfolio/static/js/3.35cf9792.chunk.js",
+    "static/js/3.35cf9792.chunk.js.map": "/HLDesign-Portfolio/static/js/3.35cf9792.chunk.js.map",
+    "index.html": "/HLDesign-Portfolio/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/HLDesign-Portfolio/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.316153c5.chunk.css.map": "/HLDesign-Portfolio/static/css/main.316153c5.chunk.css.map",
+    "static/js/2.12ab464f.chunk.js.LICENSE.txt": "/HLDesign-Portfolio/static/js/2.12ab464f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/HLDesign-Portfolio/static/media/footer.b19dbd11.jpeg",
+    "static/media/bio-pic.be11d7d6.jpg": "/HLDesign-Portfolio/static/media/bio-pic.be11d7d6.jpg",
+    "static/media/employee-directory.cd7b0c45.gif": "/HLDesign-Portfolio/static/media/employee-directory.cd7b0c45.gif",
+    "static/media/hanh-le-resume.48dc15d7.pdf": "/HLDesign-Portfolio/static/media/hanh-le-resume.48dc15d7.pdf",
+    "static/media/logo.3f4fdc02.png": "/HLDesign-Portfolio/static/media/logo.3f4fdc02.png",
+    "static/media/mini-quiz.22a7bd12.jpg": "/HLDesign-Portfolio/static/media/mini-quiz.22a7bd12.jpg",
+    "static/media/note-taker.21c61d8e.gif": "/HLDesign-Portfolio/static/media/note-taker.21c61d8e.gif",
+    "static/media/password-generator.16d92747.jpg": "/HLDesign-Portfolio/static/media/password-generator.16d92747.jpg",
+    "static/media/weather-dashboard.373ef52e.jpg": "/HLDesign-Portfolio/static/media/weather-dashboard.373ef52e.jpg",
+    "static/media/workout-tracker.3558912f.gif": "/HLDesign-Portfolio/static/media/workout-tracker.3558912f.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.073a2848.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.12ab464f.chunk.js",
+    "static/css/main.316153c5.chunk.css",
+    "static/js/main.af44b98d.chunk.js"
+  ]
+}
