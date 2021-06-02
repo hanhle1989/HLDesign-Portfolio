@@ -1,6 +1,6 @@
 import React from "react";
 import Projects from "../components/Projects";
-import projects from "../utils/projects"
+import projects from "../projects"
 
 export const WebDevelopment = () => {
     return (
