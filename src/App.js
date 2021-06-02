@@ -15,7 +15,7 @@ import Contact from './pages/contact';
 
 function App() {
   return (
-    <HashRouter basename={process.env.hanhle1989}>
+    <HashRouter>
       <Navbar />
       <Header />
       <Switch>
