@@ -1,0 +1,132 @@
+.App {
+  text-align: center;
+}
+
+nav{
+  z-index: 2;
+}
+
+.logo {
+  height: 5vmin;
+  pointer-events: none;
+}
+
+.navbar-nav > li > a{
+  margin-right: .7rem;
+  margin-left: .7rem;
+}
+
+.navbar-nav > li > a.active, .navbar-nav > li > a:focus{
+  border-bottom: .15rem solid white
+}
+
+.navbar-nav > li > a:hover{
+  border-bottom: .15rem solid white
+}
+
+.header-wrapper{
+  position: relative;
+  background: url(./assets/background.jpeg) no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 70vh;
+}
+
+.main-info{
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+
+.typed-text{
+  font-size: 3rem;
+  font-weight: bolder;
+}
+
+.btn-main-offer{
+  border: 1px solid white;
+  border-radius: 0%;
+  padding: 8px 10px 10px 10px;
+  margin-top: 2rem;
+  color: white;
+  text-decoration: none;
+}
+
+.tsparticles-canvas-el{
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+  z-index: 1;
+}
+
+.photo-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.profilePic {
+  width: 32rem;
+  border-radius: 50%
+}
+
+.header {
+  size: auto;
+  font-weight: bold;
+}
+
+.portfolio-wrapper {
+  background: rgb(231, 231, 231);
+  padding: 3rem 0;
+}
+
+.portfolio-image {
+  height: 230px;
+  padding: .25rem;
+  margin: 0.85rem;
+}
+
+.card-title {
+  font-weight: 600;
+  margin-bottom: 1rem;
+  margin-top: 1.5rem;
+}
+
+.card{
+  border-radius: 0 !important;
+  border-bottom: 3px solid black !important;
+}
+
+.submitBtn {
+  padding-top: 20px;
+}
+
+.contactHeader{
+  padding-top: 50px;
+}
+
+.footer {
+  padding-top:30px;
+  padding-bottom: 100px;
+  background: url(./assets/footer.jpeg) no-repeat;
+  color: white;
+  justify-content: center;
+  text-align: center;
+}
+
+.icon {
+  margin: 10px;
+  color: white;
+}
+
+.copyright {
+  margin-top: 20px;
+}
