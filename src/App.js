@@ -1,6 +1,6 @@
 
 import React from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter, Route, Switch } from "react-router-dom";
 
 import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -15,23 +15,17 @@ import Contact from './pages/contact';
 
 function App() {
   return (
-      <Router>
-        <Navbar />
-        <Header />
-          <Route exact path="/"> <Home />
-          </Route>
-
-          <Route exact path="/home"> <Home />
-          </Route>
-
-          <Route exact path="/webdevelopment"> <Webdevelopment />
-          </Route>
-
-          <Route exact path="/contact"> <Contact />
-          </Route>
-          
-        <Footer />
-      </Router>
+    <HashRouter basename={process.env.HLdesignPortfolio}>
+      <Navbar />
+      <Header />
+      <Switch>
+        <Route exact path="/" component={Home} />
+        <Route exact path="/home" component={Home} />
+        <Route exact path="/webdevelopment" component={Webdevelopment} />
+        <Route exact path="/contact" component={Contact} />
+      </Switch>
+      <Footer />
+    </HashRouter>
   );
 }
 
